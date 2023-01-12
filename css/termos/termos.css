@@ -1,0 +1,30 @@
+.titulo {
+  padding-left: 40px;
+}
+
+h1 {
+  color: #ffff;
+}
+
+.titulo p {
+  color: #b2b2b2;
+}
+
+h1 span {
+  color: #ffbb00;
+}
+
+.termos {
+  padding-left: 40px;
+}
+.termos h2 {
+  color: #111;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.termos p {
+  color: #595959;
+  max-width: 75ch;
+  margin-bottom: 24px;
+}

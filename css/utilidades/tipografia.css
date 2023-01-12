@@ -1,0 +1,171 @@
+.texto-grande {
+  font-size: 64px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 600;
+}
+
+.texto-grande1 {
+  font-size: 36px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 600;
+}
+
+.texto-medio {
+  font-size: 50px;
+  line-height: 1.5;
+  font-family: "Roboto";
+  font-weight: 400;
+   }
+
+.texto-depoimento {
+ font-size: 36px;
+ line-height: 1.125;
+  font-family: "Merriweather";
+  font-weight: 900;
+  font-style: italic;
+  }
+
+.texto-medio1 {
+  font-size: 32px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 600;
+}
+
+
+.texto-medio2 {
+  font-size: 18px;
+line-height: 1.125;
+font-family: "Roboto";
+font-weight: 500;
+}
+
+.texto-perguntas {
+  font-size: 18px;
+  line-height: 1.33;
+  font-family: "Poppins";
+font-weight: 600;
+}
+
+.texto-medio {
+  font-size: 24px;
+  line-height: 1.5;
+  font-family: "Roboto";
+  font-weight: 400;
+}
+
+.texto-medio3 {
+  font-size: 24px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 600;
+}
+
+.texto-medio4 {
+  font-size: 24px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 400;
+}
+
+.texto-pequeno {
+  font-size: 16px;
+  line-height: 1.125;
+  font-family: "Roboto";
+  font-weight: 400;
+}
+
+.texto-pequeno01 {
+    font-size: 14px;
+    line-height: 1.125;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.texto-pequeno1 {
+  font-size: 18px;
+  line-height: 1.125;
+  font-family: "Roboto";
+  font-weight: 400;
+}
+
+.texto-pequeno2 {
+  font-size: 18px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 500;
+}
+
+.texto-comprar {
+  font-size: 12px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 500;
+color: #9c9c9c;
+}
+
+.texto-dados {
+  font-size: 12px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 500;
+}
+
+.texto-informacoes,
+.texto-ficha {
+  font-size: 12px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 500;
+color: #fff;
+text-transform: uppercase;
+}
+
+.texto-prata {
+  font-size: 36px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 600;
+color: #9c9c9c;
+}
+
+.texto-ouro {
+  font-size: 36px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 600;
+color: #ffbb00;
+}
+
+.texto-mensal {
+  font-size: 12px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 600;
+color: #9c9c9c;
+}
+
+.texto-valor {
+  font-size: 36px;
+  line-height: 1.125;
+  font-family: "Poppins";
+font-weight: 600;
+color: #fff;
+}
+
+.texto-vantagens {
+  font-size: 18px;
+font-family: "Roboto";
+font-weight: 500;
+color: #fff;
+}
+
+.botao-tip {
+  font-size: 18px;
+  line-height: 1.33;
+  font-family: "Poppins";
+font-weight: 600;
+color: #332200;
+}
