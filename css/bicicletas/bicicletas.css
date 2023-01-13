@@ -10,13 +10,8 @@
   color: #fff;
 }
 
-
-.bicicleta-magic {
-  background: linear-gradient(to right, #ffff 30%, #111 0%);
-  color: #ffff;
-}
 .bicicleta-magic h2 {
-  color: #ffff;
+  color: #000;
 }
 
 .bicicletas {
@@ -57,6 +52,10 @@ padding-left: 0px;
   display: grid;
   grid-template-columns: 1fr auto;
   align-content: start;
+}
+
+.magic {
+  color: #000;
 }
 
 .bicicletas h2,

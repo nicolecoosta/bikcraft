@@ -75,7 +75,7 @@ margin-bottom: 40px;
   grid-column: 1/-1;
   }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .seguros {
     grid-template-columns: 1fr;
     padding-left: 0px;
